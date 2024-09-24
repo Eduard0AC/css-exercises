@@ -1,14 +1,18 @@
 .p {
-    color: 0,0,0;
     background-color: rgb(179, 79, 79);
     font-family: Verdana, DejaVu sans, sans-serif;
 }
 
-.big {
+.p, .big, #green {
     font-size: 24px;
 }
 
 #blue {
     color: rgb(0, 132, 255);
     font-size: 32px;
+}
+
+#green{
+    background-color: rgb(84, 236, 78);
+    font-weight: bold;
 }
