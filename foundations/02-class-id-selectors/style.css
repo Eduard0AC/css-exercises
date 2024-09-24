@@ -3,3 +3,8 @@
     background-color: rgb(179, 79, 79);
     font-family: Verdana, DejaVu sans, sans-serif;
 }
+
+#blue {
+    color: rgb(0, 132, 255);
+    font-size: 32px;
+}
