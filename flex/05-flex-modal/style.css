@@ -78,3 +78,8 @@ button.cancel {
 .objects{
   display: flex;
 }
+
+.center{
+  display: flex;
+  flex-direction: column;
+}
