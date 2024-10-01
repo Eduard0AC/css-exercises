@@ -10,27 +10,7 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
-<<<<<<< HEAD
-  display: flex;
-  justify-content: center;
-  margin-bottom: 32px;
-=======
->>>>>>> parent of 192783c (Center title)
 }
-
-.elements{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 52px;
-}
-
-.barberry, .chilli, .pepper, .saffron{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
 
 /* do not edit this footer */
 .footer {
