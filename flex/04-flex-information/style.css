@@ -10,9 +10,12 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+<<<<<<< HEAD
   display: flex;
   justify-content: center;
   margin-bottom: 32px;
+=======
+>>>>>>> parent of 192783c (Center title)
 }
 
 .elements{
