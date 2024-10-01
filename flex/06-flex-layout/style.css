@@ -32,7 +32,7 @@ input {
 .header, .footer{
   display: flex;
   justify-content: space-between;
-
+  padding: 0 16px;
 }
 
 .left-links, .right-links{
@@ -56,4 +56,9 @@ input {
 
 .footer{
   background-color: #eeee;
+}
+
+ul{
+  padding: 0;
+  list-style: none ;
 }
