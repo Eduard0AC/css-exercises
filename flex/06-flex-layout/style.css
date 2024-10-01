@@ -26,18 +26,20 @@ input {
   width: 400px;
 }
 
-.header{
+.header, .footer{
   display: flex;
   justify-content: space-between;
 }
 
-.left-links{
+.left-links, .right-links{
   display: flex;
-  align-items: flex-start;
+  gap: 16px;
 }
 
+.left-links{
+  align-items: flex-start;
+}
 .right-links{
-  display: flex;
   align-items: flex-end;
 }
 
